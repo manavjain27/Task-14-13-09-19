@@ -24,7 +24,7 @@ public class UpdateEmployee {
 		
 		session.close();
 		
-		System.out.println("Data Deleted");
+		System.out.println("Data Updated");
 		
 		
 		
